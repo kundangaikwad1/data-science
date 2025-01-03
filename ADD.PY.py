@@ -4,7 +4,7 @@ if x % 2 == 0:
     print("Even")
 else:
     print("Odd")
-
+# if no is odd
 # Checking another number
 x = 7
 
